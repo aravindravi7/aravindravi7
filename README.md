@@ -31,12 +31,14 @@ Here are some tools and technologies I’ve worked with:
 
 | Category            | Tools & Technologies                                                                 |
 |---------------------|--------------------------------------------------------------------------------------|
-| **Programming**     | SQL, Python (basic), Java, C++                                                      |
-| **Data Analytics**  | Looker Studio, Tableau, Google BigQuery                                             |
-| **Productivity**    | Jira, Trello, Asana                                                                 |
-| **Design & Prototyping** | Figma, Adobe XD                                                                |
-| **Cloud Platforms** | Google Cloud Platform (GCP)                                                         |
-| **AI/ML APIs**      | OpenAI (ChatGPT), Automatic Speech Recognition APIs                                 |
+| **Programming**     | SQL, Python (basic), Java, C++, R                                                    |
+| **Analytics**  | Looker Studio, Tableau, Google BigQuery, Power BI, Mixpanel                               |
+| **Productivity**    | Jira, Trello, Asana, Clickup                                                         |
+| **Design & Prototyping** | Figma, Adobe XD                                                                 |
+| **Cloud Platforms** | Google Cloud Platform (GCP)                                                          |
+| **AI/ML APIs**      | OpenAI (ChatGPT), Automatic Speech Recognition APIs                                  |
+| **Frameworkss**     |   HLD, LLD, RICE,                                                                    |
+| **Others**      | Git, Docker, Postman, Netbeans,                                                          |
 
 ---
 
@@ -44,15 +46,15 @@ Here are some tools and technologies I’ve worked with:
 
 Here are some of the projects I’m proud of:
 
-### 🔗 [Mental Well-being Application (The KPI Institute)](samplelink)
+### 🔗 <a href="[Tech Enabled Precision Farming](https://aravindravi.sites.northeastern.edu/portfolio/sowing-innovation-glifics-impact-on-precision-agriculture/)" target="_blank">(Project Tech4Dev)</a>
 - Spearheaded the development of a mental health app offering virtual consultations.
 - Conducted competitor analysis and crafted pricing strategies that informed MVP development.
 
-### 🔗 [Glific SaaS Platform Redesign (Project Tech4Dev)](samplelink)
+### 🔗 <a href="[Glific SaaS Platform Redesign](https://aravindravi.sites.northeastern.edu/portfolio/redesigning-glific/)" target="_blank">(Project Tech4Dev)</a>
 - Led the UI/UX redesign of a SaaS platform for NGOs, boosting user engagement significantly.
 - Integrated AI APIs (ChatGPT & ASR) to enhance language processing accuracy.
 
-### 🔗 [NFT Marketplace Launch (KoineArth)](samplelink)
+### 🔗 <a href="[NFT Marketplace Launch " target="_blank](https://aravindravi.sites.northeastern.edu/portfolio/from-ideas-to-impact-building-ngagen/)">(KoineArth)</a>
 - Managed the end-to-end launch of India’s first NFT marketplace supporting fiat currency.
 - Achieved $3.5M+ in transactions within the first quarter.
 
@@ -77,9 +79,8 @@ Here are some of the projects I’m proud of:
 
 Feel free to reach out or collaborate with me:
 
-- 🌐 [Personal Website](https://aravindravi.sites.northeastern.edu/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/-aravindravi/)  
-- 🐦 [Twitter](samplelink)  
+- 🌐 <a href="https://aravindravi.sites.northeastern.edu/" target="_blank">Personal Website</a>  
+- 💼 <a href="https://www.linkedin.com/in/-aravindravi/" target="_blank">LinkedIn</a>  
 
 ---
 
