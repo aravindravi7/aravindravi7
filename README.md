@@ -47,15 +47,15 @@ Here are some tools and technologies I’ve worked with:
 
 Here are some of the projects I’m proud of:
 
-### 🔗 <a href="[Tech Enabled Precision Farming](https://aravindravi.sites.northeastern.edu/portfolio/sowing-innovation-glifics-impact-on-precision-agriculture/)" target="_blank">(Project Tech4Dev)</a>
+### 🔗 <a href="https://aravindravi.sites.northeastern.edu/portfolio/sowing-innovation-glifics-impact-on-precision-agriculture/" target="_blank">Tech Enabled Precision Farming (Project Tech4Dev)</a>
 - Spearheaded the development of a mental health app offering virtual consultations.
 - Conducted competitor analysis and crafted pricing strategies that informed MVP development.
 
-### 🔗 <a href="[Glific SaaS Platform Redesign](https://aravindravi.sites.northeastern.edu/portfolio/redesigning-glific/)" target="_blank">(Project Tech4Dev)</a>
+### 🔗 <a href="https://aravindravi.sites.northeastern.edu/portfolio/redesigning-glific/" target="_blank">Glific SaaS Platform Redesign (Project Tech4Dev)</a>
 - Led the UI/UX redesign of a SaaS platform for NGOs, boosting user engagement significantly.
 - Integrated AI APIs (ChatGPT & ASR) to enhance language processing accuracy.
 
-### 🔗 <a href="[NFT Marketplace Launch " target="_blank](https://aravindravi.sites.northeastern.edu/portfolio/from-ideas-to-impact-building-ngagen/)">(KoineArth)</a>
+### 🔗 <a href="https://aravindravi.sites.northeastern.edu/portfolio/from-ideas-to-impact-building-ngagen/" target="_blank">NFT Marketplace Launch (KoineArth)</a>
 - Managed the end-to-end launch of India’s first NFT marketplace supporting fiat currency.
 - Achieved $3.5M+ in transactions within the first quarter.
 
