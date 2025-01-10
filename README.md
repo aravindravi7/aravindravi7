@@ -64,9 +64,9 @@ Here are some of the projects I’m proud of:
 ## ✨ Fun Facts About Me
 
 - 🧠 I’m fascinated by how technology can solve real-world problems—whether it’s improving education access or streamlining financial services.
-- 🌍 I co-founded an EdTech startup that grew to $250k+ in revenue within its first year!
+- 🌍 I co-founded a Marketing startup that grew to $250k+ in revenue within its first year!
 - 📚 Lifelong learner: Currently diving deep into AI/ML concepts while pursuing my Master’s degree.
-- 🎨 Outside work: You’ll often find me exploring creative hobbies like photography or experimenting with design tools.
+- 🎨 Outside work: You’ll often find me exploring creative hobbies like motorsports or experimenting with design tools.
 
 ---
 
