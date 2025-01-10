@@ -1,16 +1,16 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I’m **Aravind Ravi**, a product manager by profession and a tech enthusiast by passion. While coding isn’t my full-time job, it’s a skill I’ve honed to better communicate with developers and manage technical projects effectively. My journey into the world of technology has been driven by curiosity, adaptability, and a relentless desire to solve meaningful problems.
+Hi there! I’m **Aravind Ravi**, a product manager by profession and a tech enthusiast by passion. While coding isn’t my full-time job, it’s a skill I’ve honed to better communicate with developers and manage technical projects effectively. My journey into the world of technology has been driven by curiosity, adaptability and a relentless desire to solve meaningful problems.
 
 ---
 
 ## 🌟 About Me
 
 - 📍 **Location:** Currently based in Boston, MA.  
-- 🎓 **Education:** Pursuing my Master’s at Northeastern University, where I’m sharpening my skills in product management, analytics, and emerging technologies.  
-- 💼 **Profession:** Product Manager with diverse experience across industries like EdTech, SaaS, FinTech, and blockchain.  
-- 🤖 **Current Focus:** Exploring AI/ML to stay ahead of the curve and leverage these technologies for innovative product solutions.  
-- 🛠️ **Why Coding?** I learned coding not as a developer but as a bridge-builder—enabling seamless collaboration with engineering teams and translating product visions into reality.
+- 🎓 **Education:** Pursuing my Master’s at Northeastern University, where I’m sharpening my skills in product management, machine learning and emerging technologies.  
+- 💼 **Profession:** Product Manager with diverse experience across industries like EdTech, SaaS, FinTech and Web3.  
+- 🤖 **Current Focus:** Exploring AI/ML and GenAI in particular to stay ahead of the curve and leverage these technologies for innovative product solutions.  
+- 🛠️ **Why Coding?** I learned coding not as a developer but as a bridge-builder-enabling seamless collaboration with engineering teams and translating product vision into reality.
 
 ---
 
@@ -21,7 +21,7 @@ I thrive at the intersection of **strategy**, **technology**, and **design**. He
 - **Product Management Expertise:** From ideation to execution, I’ve led cross-functional teams to deliver impactful products.
 - **Data-Driven Decision Making:** Leveraging analytics tools to uncover insights and drive business outcomes.
 - **User-Centric Design:** Championing usability testing and UI/UX improvements to enhance customer experiences.
-- **AI/ML Exploration:** Diving into cutting-edge technologies like ChatGPT integrations and predictive analytics.
+- **AI/ML Exploration:** Diving into cutting-edge technologies like LLMS and Large Action Models.
 
 ---
 
@@ -34,10 +34,11 @@ Here are some tools and technologies I’ve worked with:
 | **Programming**     | SQL, Python (basic), Java, C++, R                                                    |
 | **Analytics**  | Looker Studio, Tableau, Google BigQuery, Power BI, Mixpanel                               |
 | **Productivity**    | Jira, Trello, Asana, Clickup                                                         |
-| **Design & Prototyping** | Figma, Adobe XD                                                                 |
+| **Design & Prototyping** | Figma, Adobe XD, Balsamiq, LucidChart                                                                 |
 | **Cloud Platforms** | Google Cloud Platform (GCP)                                                          |
-| **AI/ML APIs**      | OpenAI (ChatGPT), Automatic Speech Recognition APIs                                  |
+| **AI/ML APIs**      | OpenAI (ChatGPT), Bhashini ASR APIs                                                  |
 | **Frameworkss**     |   HLD, LLD, RICE,                                                                    |
+| **Non Technical**     |   Product & Stakeholder Management, Roadmapping, Product Design                    |
 | **Others**      | Git, Docker, Postman, Netbeans,                                                          |
 
 ---
