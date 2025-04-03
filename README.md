@@ -8,7 +8,7 @@ Hi there! I’m **Aravind Ravi**, a product manager by profession and a tech ent
 
 - 📍 **Location:** Currently based in Boston, MA.  
 - 🎓 **Education:** Pursuing my Master’s at Northeastern University, where I’m sharpening my skills in product management, machine learning and emerging technologies.  
-- 💼 **Profession:** Product Manager with diverse experience across industries like EdTech, SaaS, FinTech and Web3.  
+- 💼 **Profession:** Product Manager with diverse experience across industries like EdTech, SaaS, FinTech, , Performance Management, Research, Web3 and AI.  
 - 🤖 **Current Focus:** Exploring AI/ML and GenAI in particular to stay ahead of the curve and leverage these technologies for innovative product solutions.  
 - 🛠️ **Why Coding?** I learned coding not as a developer but as a bridge-builder-enabling seamless collaboration with engineering teams and translating product vision into reality.
 
