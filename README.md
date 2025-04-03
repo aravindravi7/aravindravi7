@@ -31,15 +31,16 @@ Here are some tools and technologies I’ve worked with:
 
 | Category            | Tools & Technologies                                                                 |
 |---------------------|--------------------------------------------------------------------------------------|
-| **Programming**     | SQL, Python (basic), Java, C++, R                                                    |
-| **Analytics**  | Looker Studio, Tableau, Google BigQuery, Power BI, Mixpanel                               |
-| **Productivity**    | Jira, Trello, Asana, Clickup                                                         |
-| **Design & Prototyping** | Figma, Adobe XD, Balsamiq, LucidChart                                                                 |
-| **Cloud Platforms** | Google Cloud Platform (GCP)                                                          |
-| **AI/ML APIs**      | OpenAI (ChatGPT), Bhashini ASR APIs                                                  |
-| **Frameworkss**     |   HLD, LLD, RICE,                                                                    |
-| **Non Technical**     |   Product & Stakeholder Management, Roadmapping, Product Design                    |
-| **Others**      | Git, Docker, Postman, Netbeans,                                                          |
+| **Programming**     |  SQL, R, Java, Python (basic), C++,                                                    |
+| **Analytics**       |  Looker Studio, Tableau, Google BigQuery, Power BI, Mixpanel, Retool, Hotjar                               |
+| **Productivity**    |  Jira, Trello, Asana, Clickup, Confluence,                                                          |
+| **Design & Prototyping** | Figma, Adobe XD, Balsamiq, LucidChart, Moqups                                                                 |
+| **Cloud Platforms** |  Google Cloud Platform (GCP), AWS                                                        |
+| **AI/ML APIs**      |  OpenAI (ChatGPT), Gemini, Bhashini ASR APIs, Google ASR, DialogFlow, SageMaker                                                   |
+| **Frameworkss**     |  HLD, LLD, RICE, Kano, Eisenhower Matrix, Double Diamond, Hypothesis-Driven Research, Effort-Impact Analysis, OKRs |  
+| **Testing**         |  User Acceptance Testing, A/B Testing, Usability Testing,  |
+| **Non Technical**   |  Product & Stakeholder Management, Roadmapping, GTM, MVP, User Research, Product Pricing & Positioning, PRDs, Requirements Gathering, Competitor Analysis, Market Research,                     |
+| **Others**          | Git, Docker, Postman, Netbeans, VSCode, Cursor, SQLDeveloper, Oracle Data Modeler, GitLab, System Design, Database Design,                                                           |
 
 ---
 
