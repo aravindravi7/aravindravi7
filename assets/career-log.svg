@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="504" viewBox="0 0 860 504" role="img" aria-labelledby="t d">
+<title id="t">Career as a git log</title>
+<desc id="d">git log --graph --oneline, newest first. feat: open to full-time PM roles · Boston, MA (now). feat: priced a $220M data-center bid · LG ES Vertech (2025). merge: MS Information Systems · Northeastern (2024–26). revert: AI visual content · not enterprise-grade (2024). feat: zero to MVP in 6 months, 20+ integrations · Unilytics (2024). feat: data, design + AI for 120+ NGOs · Tech4Dev (2023). feat: India’s first NFT e-commerce, $1.5M+ Q1 · KoineArth (2021). init: co-founded, bootstrapped to $250K+ · UnivSense (2020). perf: disbursements 10x, 4–5h → under 2h · Propelld (2019). fix: doctor churn, retention +15% · HealthPlix (2018). first commit: HV/MV power electronics · Brown Electrical (2018). The first commit and HEAD are both on the energy branch.</desc>
+<style>
+.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"DejaVu Sans Mono","Liberation Mono",monospace}
+.p{fill:#00F5D4}.t{fill:#EAEAEA}.m{fill:#8B93A7}.h{fill:#E5C07B}.cv{fill:#0B0F1A}
+.s{animation:show .25s ease-out both}
+@keyframes show{from{opacity:0}to{opacity:1}}
+.c1{animation:ty 1.1s steps(25) .5s both}
+@keyframes ty{from{transform:translateX(0)}to{transform:translateX(236px)}}
+.ring{animation:ring 2.4s ease-in-out 3s infinite}
+@keyframes ring{50%{opacity:.15}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs><clipPath id="card"><rect width="860" height="504" rx="14"/></clipPath></defs>
+<g clip-path="url(#card)"><rect width="860" height="504" fill="#0B0F1A"/><rect width="860" height="44" fill="#111827"/><rect y="44" width="860" height="1" fill="#1E293B"/></g>
+<rect x=".5" y=".5" width="859" height="503" rx="14" fill="none" stroke="#1E293B"/>
+<circle cx="24" cy="22" r="6" fill="#FF5F57"/><circle cx="44" cy="22" r="6" fill="#FEBC2E"/><circle cx="64" cy="22" r="6" fill="#28C840"/>
+<text x="430" y="27" text-anchor="middle" class="mono m" font-size="13">career: git log</text>
+<g class="mono" font-size="15">
+<text x="28" y="80" class="p">~ $</text>
+<text x="64" y="80" class="t">git log --graph --oneline</text>
+<rect class="cv c1" x="62" y="62" width="236" height="24" transform="translate(236 0)"/>
+</g>
+<g class="s" style="animation-delay:1.7s">
+<path d="M30 118 V 438" stroke="#2A3546" stroke-width="2" fill="none"/>
+<path d="M30 246 C30 232 46 228 46 214 C46 200 46 228 46 214 C46 200 30 196 30 182" stroke="#3A86FF" stroke-width="2" fill="none" opacity=".8"/>
+</g>
+<g class="s mono" style="animation-delay:1.70s">
+<circle cx="30" cy="118" r="11" fill="none" stroke="#00F5D4" stroke-opacity=".45" class="ring"/><circle cx="30" cy="118" r="6" class="p"/>
+<text x="64" y="123" class="h" font-size="13">c0ffee1</text>
+<rect x="128" y="107" width="104" height="22" rx="11" class="p"/><text x="180" y="122.5" text-anchor="middle" font-size="12" font-weight="700" fill="#0B0F1A">HEAD → main</text>
+<text x="246" y="123" font-size="13.5"><tspan class="m">feat:</tspan> <tspan class="t">open to full-time PM roles · Boston, MA</tspan></text>
+<text x="836" y="123" text-anchor="end" font-size="12.5" class="m">now</text>
+</g>
+<g class="s mono" style="animation-delay:1.83s">
+<circle cx="30" cy="150" r="5.5" class="p"/>
+<text x="64" y="155" class="h" font-size="13">ba77e12</text>
+<rect x="128.5" y="139.5" width="103" height="21" rx="10.5" fill="none" stroke="#00F5D4"/><text x="180" y="154.5" text-anchor="middle" font-size="12" class="p">energy</text>
+<text x="246" y="155" font-size="13.5"><tspan class="m">feat:</tspan> <tspan class="t">priced a $220M data-center bid · LG ES Vertech</tspan></text>
+<text x="836" y="155" text-anchor="end" font-size="12.5" class="m">2025</text>
+</g>
+<g class="s mono" style="animation-delay:1.96s">
+<circle cx="30" cy="182" r="5" fill="#0B0F1A" stroke="#EAEAEA" stroke-width="2"/>
+<text x="64" y="187" class="h" font-size="13">ed0ca7e</text>
+<rect x="128.5" y="171.5" width="103" height="21" rx="10.5" fill="none" stroke="#3A86FF"/><text x="180" y="186.5" text-anchor="middle" font-size="12" fill="#7FB0FF">northeastern</text>
+<text x="246" y="187" font-size="13.5"><tspan class="m">merge:</tspan> <tspan class="t">MS Information Systems · Northeastern</tspan></text>
+<text x="836" y="187" text-anchor="end" font-size="12.5" class="m">2024–26</text>
+</g>
+<g class="s mono" style="animation-delay:2.09s">
+<circle cx="30" cy="214" r="5" fill="#0B0F1A" stroke="#EAEAEA" stroke-width="2"/>
+<text x="64" y="219" class="h" font-size="13">dec1de5</text>
+<rect x="128.5" y="203.5" width="103" height="21" rx="10.5" fill="none" stroke="#334155"/><text x="180" y="218.5" text-anchor="middle" font-size="12" fill="#A9B1C3">ai</text>
+<text x="246" y="219" font-size="13.5"><tspan class="m">revert:</tspan> <tspan class="t">AI visual content · not enterprise-grade</tspan></text>
+<text x="836" y="219" text-anchor="end" font-size="12.5" class="m">2024</text>
+</g>
+<g class="s mono" style="animation-delay:2.22s">
+<circle cx="30" cy="246" r="5" fill="#0B0F1A" stroke="#EAEAEA" stroke-width="2"/>
+<text x="64" y="251" class="h" font-size="13">6a0b7e2</text>
+<rect x="128.5" y="235.5" width="103" height="21" rx="10.5" fill="none" stroke="#334155"/><text x="180" y="250.5" text-anchor="middle" font-size="12" fill="#A9B1C3">ai</text>
+<text x="246" y="251" font-size="13.5"><tspan class="m">feat:</tspan> <tspan class="t">zero to MVP in 6 months, 20+ integrations · Unilytics</tspan></text>
+<text x="836" y="251" text-anchor="end" font-size="12.5" class="m">2024</text>
+</g>
+<g class="s mono" style="animation-delay:2.35s">
+<circle cx="30" cy="278" r="5" fill="#0B0F1A" stroke="#EAEAEA" stroke-width="2"/>
+<text x="64" y="283" class="h" font-size="13">f1e1d05</text>
+<rect x="128.5" y="267.5" width="103" height="21" rx="10.5" fill="none" stroke="#334155"/><text x="180" y="282.5" text-anchor="middle" font-size="12" fill="#A9B1C3">non-profit</text>
+<text x="246" y="283" font-size="13.5"><tspan class="m">feat:</tspan> <tspan class="t">data, design + AI for 120+ NGOs · Tech4Dev</tspan></text>
+<text x="836" y="283" text-anchor="end" font-size="12.5" class="m">2023</text>
+</g>
+<g class="s mono" style="animation-delay:2.48s">
+<circle cx="30" cy="310" r="5" fill="#0B0F1A" stroke="#EAEAEA" stroke-width="2"/>
+<text x="64" y="315" class="h" font-size="13">c01ec7a</text>
+<rect x="128.5" y="299.5" width="103" height="21" rx="10.5" fill="none" stroke="#334155"/><text x="180" y="314.5" text-anchor="middle" font-size="12" fill="#A9B1C3">web3</text>
+<text x="246" y="315" font-size="13.5"><tspan class="m">feat:</tspan> <tspan class="t">India’s first NFT e-commerce, $1.5M+ Q1 · KoineArth</tspan></text>
+<text x="836" y="315" text-anchor="end" font-size="12.5" class="m">2021</text>
+</g>
+<g class="s mono" style="animation-delay:2.61s">
+<circle cx="30" cy="342" r="5" fill="#0B0F1A" stroke="#EAEAEA" stroke-width="2"/>
+<text x="64" y="347" class="h" font-size="13">b007ed1</text>
+<rect x="128.5" y="331.5" width="103" height="21" rx="10.5" fill="none" stroke="#334155"/><text x="180" y="346.5" text-anchor="middle" font-size="12" fill="#A9B1C3">edtech</text>
+<text x="246" y="347" font-size="13.5"><tspan class="m">init:</tspan> <tspan class="t">co-founded, bootstrapped to $250K+ · UnivSense</tspan></text>
+<text x="836" y="347" text-anchor="end" font-size="12.5" class="m">2020</text>
+</g>
+<g class="s mono" style="animation-delay:2.74s">
+<circle cx="30" cy="374" r="5" fill="#0B0F1A" stroke="#EAEAEA" stroke-width="2"/>
+<text x="64" y="379" class="h" font-size="13">5ca1ab1</text>
+<rect x="128.5" y="363.5" width="103" height="21" rx="10.5" fill="none" stroke="#334155"/><text x="180" y="378.5" text-anchor="middle" font-size="12" fill="#A9B1C3">fintech</text>
+<text x="246" y="379" font-size="13.5"><tspan class="m">perf:</tspan> <tspan class="t">disbursements 10x, 4–5h → &lt;2h · Propelld</tspan></text>
+<text x="836" y="379" text-anchor="end" font-size="12.5" class="m">2019</text>
+</g>
+<g class="s mono" style="animation-delay:2.87s">
+<circle cx="30" cy="406" r="5" fill="#0B0F1A" stroke="#EAEAEA" stroke-width="2"/>
+<text x="64" y="411" class="h" font-size="13">7e3b5c1</text>
+<rect x="128.5" y="395.5" width="103" height="21" rx="10.5" fill="none" stroke="#334155"/><text x="180" y="410.5" text-anchor="middle" font-size="12" fill="#A9B1C3">healthtech</text>
+<text x="246" y="411" font-size="13.5"><tspan class="m">fix:</tspan> <tspan class="t">doctor churn, retention +15% · HealthPlix</tspan></text>
+<text x="836" y="411" text-anchor="end" font-size="12.5" class="m">2018</text>
+</g>
+<g class="s mono" style="animation-delay:3.00s">
+<circle cx="30" cy="438" r="5.5" class="p"/>
+<text x="64" y="443" class="h" font-size="13">3a91f0c</text>
+<rect x="128.5" y="427.5" width="103" height="21" rx="10.5" fill="none" stroke="#00F5D4"/><text x="180" y="442.5" text-anchor="middle" font-size="12" class="p">energy</text>
+<text x="246" y="443" font-size="13.5"><tspan class="m">first commit:</tspan> <tspan class="t">HV/MV power electronics · Brown Electrical</tspan></text>
+<text x="836" y="443" text-anchor="end" font-size="12.5" class="m">2018</text>
+</g>
+<text x="28" y="482" class="mono m s" font-size="13" style="animation-delay:3.43s">First commit and HEAD, both on <tspan class="p">energy</tspan>. Full circle.</text>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="392" viewBox="0 0 860 392" role="img" aria-labelledby="t d">
+<title id="t">aravind@github: ~</title>
+<desc id="d">A terminal session. whoami prints Aravind Ravi, Technical Product Manager, Boston, MA. cat now.txt prints: finishing an MS in Information Systems at Northeastern, December 2026, and shipping AI side builds, CORTEX and SignalScout. cat motto.txt prints: thinking-native, with AI as the engine. Status: open to full-time PM roles.</desc>
+<style>
+.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"DejaVu Sans Mono","Liberation Mono",monospace}
+.p{fill:#00F5D4}.t{fill:#EAEAEA}.m{fill:#8B93A7}.cv{fill:#0B0F1A}
+.s{animation:show .01s linear both}
+@keyframes show{from{opacity:0}to{opacity:1}}
+.c1{animation:ty1 .6s steps(6) .5s both}
+.c3{animation:ty3 .9s steps(11) 1.9s both}
+.c5{animation:ty5 1s steps(13) 3.6s both}
+@keyframes ty1{from{transform:translateX(0)}to{transform:translateX(66px)}}
+@keyframes ty3{from{transform:translateX(0)}to{transform:translateX(116px)}}
+@keyframes ty5{from{transform:translateX(0)}to{transform:translateX(134px)}}
+.cur{animation:show .01s linear 5.2s both,blink 1.1s steps(1) 5.2s infinite}
+@keyframes blink{50%{opacity:0}}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.3}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs><clipPath id="card"><rect width="860" height="392" rx="14"/></clipPath></defs>
+<g clip-path="url(#card)">
+<rect width="860" height="392" fill="#0B0F1A"/>
+<rect width="860" height="44" fill="#111827"/>
+<rect y="44" width="860" height="1" fill="#1E293B"/>
+</g>
+<rect x=".5" y=".5" width="859" height="391" rx="14" fill="none" stroke="#1E293B"/>
+<circle cx="24" cy="22" r="6" fill="#FF5F57"/><circle cx="44" cy="22" r="6" fill="#FEBC2E"/><circle cx="64" cy="22" r="6" fill="#28C840"/>
+<text x="430" y="27" text-anchor="middle" class="mono m" font-size="13">aravind@github: ~</text>
+<circle cx="620" cy="22" r="4" class="p pulse"/>
+<text x="836" y="27" text-anchor="end" class="mono m" font-size="13">open to full-time PM roles</text>
+
+<g class="mono" font-size="15">
+<text x="28" y="84" class="p">~ $</text>
+<text x="64" y="84" class="t">whoami</text>
+<rect class="cv c1" x="62" y="66" width="66" height="24" transform="translate(66 0)"/>
+
+<g class="s" style="animation-delay:1.3s">
+<text x="28" y="126" class="t" font-size="30" font-weight="700">Aravind Ravi</text>
+<text x="28" y="154" class="m">Technical Product Manager · Boston, MA</text>
+</g>
+
+<text x="28" y="198" class="p s" style="animation-delay:1.7s">~ $</text>
+<text x="64" y="198" class="t">cat now.txt</text>
+<rect class="cv c3" x="62" y="180" width="116" height="24" transform="translate(116 0)"/>
+
+<g class="s t" style="animation-delay:3s">
+<text x="28" y="226">Finishing an MS in Information Systems at Northeastern (Dec 2026).</text>
+<text x="28" y="250">Shipping AI side builds: CORTEX, SignalScout.</text>
+</g>
+
+<text x="28" y="294" class="p s" style="animation-delay:3.4s">~ $</text>
+<text x="64" y="294" class="t">cat motto.txt</text>
+<rect class="cv c5" x="62" y="276" width="134" height="24" transform="translate(134 0)"/>
+
+<text x="28" y="322" class="t s" font-style="italic" style="animation-delay:4.8s">Thinking-native, with AI as the engine.</text>
+
+<text x="28" y="366" class="p s" style="animation-delay:5.2s">~ $</text>
+<rect class="p cur" x="64" y="352" width="9" height="18"/>
+</g>
+</svg>

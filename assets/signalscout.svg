@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="244" viewBox="0 0 420 244" role="img" aria-labelledby="t d">
+<title id="t">SignalScout</title>
+<desc id="d">SignalScout, January to April 2026: multi-evaluator AI triage for research overload. Orthogonal judgment axes raised mixed verdicts from 13 percent to 65 percent. 3 evaluators, Thompson Sampling, plus 308 versus minus 136 against a random baseline. Python, Streamlit, OpenAI API, SQLite. Live app.</desc>
+<style>
+.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"DejaVu Sans Mono","Liberation Mono",monospace}
+.p{fill:#00F5D4}.t{fill:#EAEAEA}.m{fill:#8B93A7}
+.g{transform-box:fill-box;transform-origin:left center;animation:grow .9s cubic-bezier(.2,.7,.2,1) .4s both}
+@keyframes grow{from{transform:scaleX(.2)}to{transform:scaleX(1)}}
+.v{animation:show .3s ease-out 1.2s both}
+@keyframes show{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="419" height="243" rx="14" fill="#0B0F1A" stroke="#1E293B"/>
+<g class="mono">
+<rect x="24.5" y="18.5" width="70" height="21" rx="10.5" fill="none" stroke="#00F5D4"/>
+<text x="59.5" y="33" text-anchor="middle" font-size="11.5" class="p">live app</text>
+<text x="396" y="33" text-anchor="end" font-size="12" class="m">Jan–Apr 2026</text>
+<text x="24" y="78" font-size="26" font-weight="700" class="t">SignalScout</text>
+<text x="24" y="102" font-size="14" class="m">Multi-evaluator AI triage</text>
+<text x="24" y="121" font-size="14" class="m">for research overload</text>
+<text x="24" y="146" font-size="11.5" class="m">mixed verdicts, before → after orthogonal axes</text>
+<rect x="24" y="153" width="48" height="7" rx="2" fill="#FFFFFF" fill-opacity=".18"/>
+<text x="80" y="160" font-size="11" class="m">13%</text>
+<rect class="g" x="24" y="165" width="242" height="7" rx="2" fill="#00F5D4"/>
+<text x="274" y="172" font-size="11" class="p v">65%</text>
+<g font-size="12" fill="#C9D1DE">
+<rect x="24.5" y="182.5" width="102" height="23" rx="6" fill="#131926" stroke="#1E293B"/><text x="75.5" y="198" text-anchor="middle">3 evaluators</text>
+<rect x="134.5" y="182.5" width="138" height="23" rx="6" fill="#131926" stroke="#1E293B"/><text x="203.5" y="198" text-anchor="middle">Thompson Sampling</text>
+<rect x="280.5" y="182.5" width="115" height="23" rx="6" fill="#131926" stroke="#1E293B"/><text x="338" y="198" text-anchor="middle">+308 vs −136</text>
+</g>
+<text x="24" y="228" font-size="12" class="m">Python · Streamlit · OpenAI API · SQLite</text>
+</g>
+</svg>
