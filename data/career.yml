@@ -1,0 +1,233 @@
+# All profile content. scripts/build_assets.py renders every SVG from this file;
+# README.md is written by hand from the same data. Edit here, then rebuild:
+#   python scripts/build_assets.py
+
+person:
+  name: Aravind Ravi
+  title: Technical Product Manager
+  descriptor: ex-founder
+  location: Boston, MA
+  tagline: "Thinking-native, with AI as the engine."
+  status: "Now casting: full-time PM roles"
+  education: "MS, Northeastern, Dec 2026"
+
+roles:
+  - id: lg
+    company: LG Energy Solution Vertech
+    poster_title: LG ES VERTECH
+    genre: ENERGY DRAMA
+    hue: energy
+    title: Technical Product Manager Co-op
+    location: Boston, MA
+    dates: May 2025 – Jan 2026
+    runtime_months: 9
+    tagline: "One model. A $220M bid."
+    hero: { value: "$220M", label: "data-center bid scoped" }
+    logline: "Put a defensible price on a $220M data-center bid, and wrote the roadmap template LG now standardizes on."
+    box_office:
+      - "$220M MAANG-affiliated data-center project scoped"
+      - "−40% edge data transmitted"
+      - "−60% manual audit effort"
+      - "−65% contract lookup time"
+    credits: ["PPC framework", "AEROS Cloud Edge", "Contract compliance monitor", "Contract AI agent"]
+    directors_cut: "Replaced flat-rate estimates with a non-parametric cost–effort model. Later, shipped a fast-build contract AI agent instead of waiting on a full development cycle, because contract lookups were slowing decisions across 3 business units."
+    plot_twist: "Speed over retrieval depth: even grounded on a Microsoft Graph semantic index, the agent occasionally missed relevant documents."
+    billing:
+      - "AN LG ENERGY SOLUTION VERTECH PRODUCTION"
+      - "ARAVIND RAVI as TECHNICAL PRODUCT MANAGER CO-OP"
+      - "BOSTON · MAY 2025 – JAN 2026 · RUNTIME 9 MONTHS"
+    motif: battery_rack
+
+  - id: unilytics
+    company: Unilytics
+    poster_title: UNILYTICS
+    genre: AI STARTUP STORY
+    hue: ai
+    title: Technical Product Manager (Founding Team)
+    location: Remote
+    dates: Jan 2024 – Dec 2024
+    runtime_months: 12
+    tagline: "Zero to MVP in six months."
+    hero: { value: "6 MONTHS", label: "to MVP · 20+ integrations" }
+    logline: "Took an enterprise AI agent platform from zero to MVP in 6 months, with 20+ integrations and 3 enterprise pilots."
+    box_office:
+      - "6-month MVP"
+      - "20+ integrations"
+      - "3 enterprise pilots"
+      - "~60% faster data discovery"
+    credits: ["GraphRAG retrieval", "Agent workflows", "Human-in-the-loop governance", "20+ integrations"]
+    directors_cut: "Sequenced integrations around a marketer’s daily loop: Google Analytics, Gmail and Slack first, then ad platforms (Google, Meta) and CRMs (HubSpot, Salesforce) to connect spend to pipeline."
+    deleted_scene: "AI-generated visual content. The diffusion-model prototype was built, then cut from the MVP because output quality wasn’t enterprise-grade."
+    billing:
+      - "A UNILYTICS FOUNDING-TEAM PRODUCTION"
+      - "ARAVIND RAVI as TECHNICAL PRODUCT MANAGER"
+      - "REMOTE · JAN 2024 – DEC 2024 · RUNTIME 12 MONTHS"
+    motif: agent_nodes
+
+  - id: tech4dev
+    company: Project Tech4Dev
+    poster_title: TECH4DEV
+    genre: SOCIAL-IMPACT ENSEMBLE
+    hue: nonprofit
+    title: Product Manager
+    location: Mumbai, India
+    dates: May 2023 – Jan 2024
+    runtime_months: 9
+    tagline: "Two platforms. 120+ NGOs."
+    hero: { value: "120+", label: "NGOs across two platforms" }
+    logline: "Shipped the data, design and AI layers behind two open-source platforms serving 120+ NGOs and 1M+ beneficiaries."
+    box_office:
+      - "120+ NGOs and 1M+ beneficiaries served"
+      - "~40% less reporting time"
+      - "~60% less manual data processing"
+      - "100+ screens redesigned in about two months"
+    credits: ["Dalgo", "Glific redesign", "30+ dashboards", "Education chatbot"]
+    directors_cut: "As SPOC for the design agency across Glific and Dalgo, pushed for plain-language interfaces where every button does exactly what it says. On Glific, turned scattered settings pages into a single-URL panel."
+    plot_twist: "The settings panel needed backend work outside the design scope, accepted in exchange for faster loads and settings users could actually find."
+    billing:
+      - "A PROJECT TECH4DEV PRODUCTION · GLIFIC & DALGO"
+      - "ARAVIND RAVI as PRODUCT MANAGER"
+      - "MUMBAI · MAY 2023 – JAN 2024 · RUNTIME 9 MONTHS"
+    motif: chat_fields
+
+  - id: koinearth
+    company: KoineArth
+    poster_title: KOINEARTH
+    genre: WEB3 LAUNCH THRILLER
+    hue: web3
+    title: Product Manager
+    promotion: "Promoted from Business Analyst in 6 months"
+    location: Bangalore, India
+    dates: Oct 2021 – Apr 2023
+    runtime_months: 19
+    tagline: "No seed phrase required."
+    hero: { value: "$1.5M+", label: "Q1 brand revenue" }
+    logline: "Launched India’s first NFT e-commerce platform and drove $1.5M+ in Q1 brand revenue."
+    box_office:
+      - "$1.5M+ Q1 revenue through brand partnerships (MG Motors, MakeMyTrip)"
+      - "~30% higher signup-to-transaction conversion"
+      - "82% → 97% on-time delivery"
+      - "5 → 100 recipients per giveaway"
+    credits: ["ngageN", "Social-login wallet", "Bulk giveaways", "Enablement hub"]
+    directors_cut: "A social-login wallet created at sign-in with Google or phone OTP, with no seed phrase or browser extension, plus a one-tap transfer to MetaMask so holders could resell on marketplaces like OpenSea."
+    plot_twist: "Mainstream-friendly meant platform-managed: crypto-native users wanted keys they controlled, and the one-tap MetaMask exit pulled NFTs and activity off the platform."
+    billing:
+      - "A KOINEARTH PRODUCTION · ngageN"
+      - "ARAVIND RAVI as PRODUCT MANAGER"
+      - "BANGALORE · OCT 2021 – APR 2023 · RUNTIME 19 MONTHS"
+    motif: hex_cluster
+
+  - id: propelld
+    company: Propelld
+    poster_title: PROPELLD
+    genre: FINTECH SCALE-UP
+    hue: fintech
+    title: Head of Disbursement Operations
+    promotion: "Promoted from Operations Associate in 6 months"
+    location: Bangalore, India
+    dates: Oct 2019 – Nov 2020
+    runtime_months: 14
+    tagline: "Map it. Then automate it."
+    hero: { value: "$190K → $1.9M", label: "a month, in 11 months" }
+    logline: "Scaled disbursements from $190K to $1.9M a month, and built the team that ran it."
+    box_office:
+      - "$190K → $1.9M monthly disbursements in 11 months"
+      - "4–5 hours → under 2 hours turnaround"
+      - "70% of manual tasks automated, about 20 hours a week saved"
+      - "Team of 8, error rates down 30%"
+    credits: ["Disbursement automation", "E-sign and KYC integrations", "Training program"]
+    directors_cut: "Mapped the as-is disbursement process end to end before automating, then removed the bottlenecks with automation and third-party e-sign and KYC integrations instead of scaling on headcount alone."
+    plot_twist: "Vendor integrations raised costs while control stayed in-house, but the speed was unmatched."
+    billing:
+      - "A PROPELLD PRODUCTION"
+      - "ARAVIND RAVI as HEAD OF DISBURSEMENT OPERATIONS"
+      - "BANGALORE · OCT 2019 – NOV 2020 · RUNTIME 14 MONTHS"
+    motif: rising_bars
+
+early_work:
+  - id: univsense
+    company: UnivSense
+    poster_title: UNIVSENSE
+    genre: FOUNDER’S INDIE
+    hue: edtech
+    title: Co-Founder
+    dates: Nov 2020 – Oct 2021
+    runtime_months: 12
+    tagline: "Bootstrapped. No studio money."
+    hero: { value: "$250K+", label: "bootstrapped in 12 months" }
+    points:
+      - "Exclusive NeoLMS partner for South India, 20+ institutions deployed"
+      - "Google and Meta funnels: 30% ROI uplift, client base 3x"
+      - "Earned Google Partner agency status"
+    billing:
+      - "A UNIVSENSE PRODUCTION"
+      - "ARAVIND RAVI as CO-FOUNDER"
+      - "NOV 2020 – OCT 2021 · RUNTIME 12 MONTHS"
+    motif: lms_window
+
+  - id: healthplix
+    company: HealthPlix
+    poster_title: HEALTHPLIX
+    genre: HEALTHTECH PROCEDURAL
+    hue: healthtech
+    title: Business Operations Associate
+    dates: Nov 2018 – Jun 2019
+    runtime_months: 8
+    tagline: "Diagnosing churn."
+    hero: { value: "+15%", label: "doctor retention" }
+    points:
+      - "Diagnosed churn from doctor interviews, usage data and support trends"
+      - "Redefined KPIs and layout of the CxO dashboard"
+      - "Lead engine with engineering: 500+ qualified leads, pipeline +25%"
+    billing:
+      - "A HEALTHPLIX PRODUCTION"
+      - "ARAVIND RAVI as BUSINESS OPERATIONS ASSOCIATE"
+      - "NOV 2018 – JUN 2019 · RUNTIME 8 MONTHS"
+    motif: ecg_line
+
+  - id: brown-electrical
+    company: Brown Electrical Enterprises
+    poster_title: BROWN ELECTRICAL
+    genre: ORIGIN STORY
+    hue: energy
+    title: Partner
+    location: Kochi, India
+    dates: May 2018 – Nov 2018
+    runtime_months: 7
+    tagline: "Where the energy started."
+    hero: { value: "10+", label: "person team moved off paper" }
+    points:
+      - "Maintenance contracts with Airtel NXT Data Centers and state hydro projects"
+      - "Owned pricing and inventory across government and private procurement"
+      - "Replaced paper tracking with pipeline and revenue dashboards"
+    billing:
+      - "A BROWN ELECTRICAL PRODUCTION"
+      - "ARAVIND RAVI as PARTNER"
+      - "KOCHI · MAY 2018 – NOV 2018 · RUNTIME 7 MONTHS"
+    motif: transmission_tower
+
+# The box-office strip under "In a nutshell": one headline number per role.
+nutshell:
+  - { value: "$220M", label: "data-center bid scoped", company: "LG ES Vertech", hue: energy }
+  - { value: "10x", label: "monthly disbursements", company: "Propelld", hue: fintech }
+  - { value: "$1.5M+", label: "Q1 revenue", company: "KoineArth", hue: web3 }
+  - { value: "120+", label: "NGOs across two platforms", company: "Tech4Dev", hue: nonprofit }
+  - { value: "6 mo", label: "zero to MVP", company: "Unilytics", hue: ai }
+  - { value: "$250K+", label: "bootstrapped", company: "UnivSense", hue: edtech }
+
+# Side builds, rendered as "Now showing" ticket stubs.
+now_showing:
+  - id: cortex
+    name: CORTEX
+    hue: energy
+    description: "Contract-aware analytics for grid-scale battery storage."
+    facts: ["475 tests", "5 views", "LLM writes prose only"]
+    stack: "Python · Streamlit · Claude API · Claude Code"
+    url: https://cortex-analytics.streamlit.app/
+  - id: signalscout
+    name: SignalScout
+    hue: ai
+    description: "Multi-evaluator AI triage for research overload."
+    facts: ["13% → 65% mixed verdicts", "+308 vs −136 against random", "Thompson Sampling"]
+    stack: "Python · Streamlit · OpenAI API · SQLite"
+    url: https://signalscout-dev.streamlit.app/

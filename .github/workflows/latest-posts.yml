@@ -1,0 +1,22 @@
+name: Latest Substack posts
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # daily, 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://aravindravi7.substack.com/feed"
+          max_post_count: "4"
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "mmm yyyy"
+          commit_message: "Update latest Substack posts"
